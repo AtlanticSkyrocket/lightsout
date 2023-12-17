@@ -1,0 +1,13 @@
+.Board {
+  margin: 0 auto;
+  display: grid;
+  place-items: center;
+}
+
+.Board-grid {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 600px;
+  border: 2px solid black;
+}
